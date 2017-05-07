@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.06.18 13:03:28.892.cpp,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp=E:\Книги и журналы\Программирование\С++\ПРИМЕРЫ\MD5 DLL\UMD5.cpp</Transaction>
+    <Transaction>2011.06.18 13:03:28.892.h,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.h=E:\Книги и журналы\Программирование\С++\ПРИМЕРЫ\MD5 DLL\UMD5.h</Transaction>
+    <Transaction>2011.06.18 13:03:28.892.dfm,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.dfm=E:\Книги и журналы\Программирование\С++\ПРИМЕРЫ\MD5 DLL\UMD5.dfm</Transaction>
+    <Transaction>2011.06.18 13:03:47.870.cbproj,C:\Users\Александр\Documents\RAD Studio\Projects\Project1.cbproj=E:\Книги и журналы\Программирование\С++\ПРИМЕРЫ\MD5 DLL\MD5Application.cbproj</Transaction>
+    <Transaction>2011.06.20 20:17:54.166.cpp,E:\Книги и журналы\Программирование\С++\МОИ ПРОЕКТЫ\MD5 DLL\md5_APPLICATION\Unit2.cpp=E:\Книги и журналы\Программирование\С++\МОИ ПРОЕКТЫ\MD5 DLL\md5_APPLICATION\U2MD5.cpp</Transaction>
+    <Transaction>2011.06.20 20:17:54.166.h,E:\Книги и журналы\Программирование\С++\МОИ ПРОЕКТЫ\MD5 DLL\md5_APPLICATION\Unit2.h=E:\Книги и журналы\Программирование\С++\МОИ ПРОЕКТЫ\MD5 DLL\md5_APPLICATION\U2MD5.h</Transaction>
+    <Transaction>2011.06.20 20:17:54.166.dfm,E:\Книги и журналы\Программирование\С++\МОИ ПРОЕКТЫ\MD5 DLL\md5_APPLICATION\Unit2.dfm=E:\Книги и журналы\Программирование\С++\МОИ ПРОЕКТЫ\MD5 DLL\md5_APPLICATION\U2MD5.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
